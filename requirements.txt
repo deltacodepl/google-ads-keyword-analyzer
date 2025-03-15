@@ -1,0 +1,7 @@
+streamlit
+cryptography
+bs4
+fernet
+openai
+requests
+anthropic
